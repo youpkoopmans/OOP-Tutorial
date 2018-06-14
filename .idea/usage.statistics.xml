@@ -4,24 +4,24 @@
     <session id="663100835">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="560" />
+          <entry key="php" value="1130" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="560" />
+          <entry key="PHP" value="1130" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="1" />
+          <entry key="php" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="1" />
+          <entry key="PHP" value="4" />
         </counts>
       </usages-collector>
     </session>

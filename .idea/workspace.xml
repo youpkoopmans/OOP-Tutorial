@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d130501-ae5c-40df-b760-464dda27a126" name="Default Changelist" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ooptut.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/usage.statistics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ect/Mailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ect/Messages.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ect/Shape.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ect/StaticsConstants.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ect/person.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ect/task.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Business.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Staff.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Users/Person.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Interface1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/interface2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/interface3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/usage.statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/usage.statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,24 +23,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ect/Mailer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ect/Messages.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1392">
-              <caret line="58" column="39" selection-start-line="50" selection-end-line="58" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
@@ -71,11 +31,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ect/StaticsConstants.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
               <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interface/Interface1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interface/interface2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interface/interface3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -165,6 +152,9 @@
         <option value="$PROJECT_DIR$/src/Business.php" />
         <option value="$PROJECT_DIR$/src/Staff.php" />
         <option value="$PROJECT_DIR$/ect/StaticsConstants.php" />
+        <option value="$PROJECT_DIR$/Interface/Interface1.php" />
+        <option value="$PROJECT_DIR$/Interface/interface2.php" />
+        <option value="$PROJECT_DIR$/Interface/interface3.php" />
       </list>
     </option>
   </component>
@@ -213,18 +203,7 @@
             <path>
               <item name="ooptut" type="b2602c69:ProjectViewProjectNode" />
               <item name="ooptut" type="462c0819:PsiDirectoryNode" />
-              <item name="ect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ooptut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ooptut" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ooptut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ooptut" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Users" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,18 +253,18 @@
       <updated>1528959273589</updated>
       <workItem from="1528959275030" duration="8386000" />
       <workItem from="1528974789818" duration="5252000" />
-      <workItem from="1528980297543" duration="2078000" />
+      <workItem from="1528980297543" duration="7041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15716000" />
+    <option name="totallyTimeSpent" value="20679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="967" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49927008" visible="true" weight="0.2590959" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49927008" visible="true" weight="0.2590959" />
       <window_info id="Structure" order="1" sideWeight="0.5007299" side_tool="true" weight="0.26130098" />
       <window_info id="Favorites" order="2" sideWeight="0.5007299" side_tool="true" weight="0.26019844" />
       <window_info anchor="bottom" id="Messages" weight="0.32968238" />
@@ -299,7 +278,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24972618" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24972618" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -429,6 +408,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/Interface1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/interface2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/interface3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
         </state>
       </provider>
     </entry>
